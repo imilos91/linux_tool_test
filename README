@@ -1,0 +1,5 @@
+compile with:
+g++ -o main main.cpp -lprocps -lpthread
+
+install if needed:
+sudo apt-get install libprocps-dev
